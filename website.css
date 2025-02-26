@@ -1,0 +1,48 @@
+.card{
+   position:absolute;
+   top: 200%;
+   bottom: 30%;
+   left: 0%;
+   background-color: azure;
+   background: fixed;
+  
+   
+}
+.card-body{
+    background-color: beige;
+}
+body{
+    background-image: url(https://auspost.com.au/content/dam/corp/travel-essentials/destination-guides/italy/photo-antipasto-platter-italian-food.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.card2{
+    position:absolute;
+   top: 150%;
+   bottom: 100%;
+   left:25%;
+   align-items: center;
+ 
+   
+}
+.card-body2{
+    background-color: beige;
+}
+.card3{
+    position:absolute;
+   top: 150%;
+   bottom: 100%;
+   left:48%;
+   align-items: center;
+ 
+   
+}
+.card-body3{
+    background-color: beige;
+}
+.section2{
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
